@@ -2,7 +2,6 @@
 
 <img width="100%" src="https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/67441800327766fc-96/s1920x1080/fe67f6e7feaaf682aa84cd0280cbb4eed24e9dea.gif" alt="Banner" />
 
-<img height="120" src="./assests/jky.gif" />
 
 </div>
 
@@ -208,15 +207,6 @@ I build systems where **security is embedded at every layer**—not bolted on as
 | **Real-time Data Pipeline** | Kafka, Spark, Docker | Stream Processing & Scalability |
 | **Cloud Infrastructure** | AWS, Terraform, Jenkins | DevOps & IaC |
 | **Full-Stack Application** | React, Node.js, MongoDB | User Experience & Performance |
-
----
-
-## 🧭 2026 Roadmap
-
-- [ ] Publish 2 in-depth architecture case studies
-- [ ] Contribute to 3 security-focused open-source repositories
-- [ ] Ship 1 production-ready cloud-native side project
-- [ ] Share practical DevSecOps workflows and templates
 
 ---
 
