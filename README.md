@@ -28,6 +28,22 @@ class SukritiSonamPattnaik {
 
 ---
 
+## ⚡ Snapshot
+
+<div align="center">
+
+![Focus](https://img.shields.io/badge/Focus-Secure%20Engineering-0A66C2?style=for-the-badge)
+![Role](https://img.shields.io/badge/Role-Associate%20Software%20Engineer-111827?style=for-the-badge)
+![Open%20to](https://img.shields.io/badge/Open%20to-Collaboration%20%26%20Open%20Source-0F766E?style=for-the-badge)
+
+</div>
+
+- 🔭 Building cloud-native and security-first systems
+- 🌱 Deepening system design and distributed systems expertise
+- 🤝 Open to collaborating on backend, cloud, and security projects
+
+---
+
 ## 🎯 What I Do
 
 <table>
@@ -195,6 +211,24 @@ I build systems where **security is embedded at every layer**—not bolted on as
 
 ---
 
+## 🧭 2026 Roadmap
+
+- [ ] Publish 2 in-depth architecture case studies
+- [ ] Contribute to 3 security-focused open-source repositories
+- [ ] Ship 1 production-ready cloud-native side project
+- [ ] Share practical DevSecOps workflows and templates
+
+---
+
+## 📝 Engineering Principles
+
+1. **Secure by Default**: Security controls should be built into architecture and CI/CD from day one.
+2. **Observe Everything**: Systems should be measurable, debuggable, and auditable in real time.
+3. **Automate Relentlessly**: Repeated manual steps become reproducible pipelines.
+4. **Design for Scale**: Build for failure, growth, and resilience early.
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -204,6 +238,7 @@ I build systems where **security is embedded at every layer**—not bolted on as
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_s.u.k_riti)
 [![Mastodon](https://img.shields.io/badge/Mastodon-2B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@sukritisonampattnaik)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sukrit-i)
+[![Profile Views](https://komarev.com/ghpvc/?username=sukrit-i&style=for-the-badge&color=0A66C2)](https://github.com/sukrit-i)
 
 </div>
 
